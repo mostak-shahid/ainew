@@ -1,0 +1,7 @@
+/*Background Color*/
+.bg-theme,#section-mservice .unit:before,#section-gservice .unit:hover:before,#section-testimonial .owl-theme .owl-dots .owl-dot.active span,#section-testimonial .owl-theme .owl-dots .owl-dot:hover span{background-color: #228ccb}
+/*Text Color*/
+.navbar .navbar-nav > .menu-item.current-menu-item > a,.navbar .navbar-nav > .menu-item.current_page_item > a,#section-mservice .unit-title,#section-about .btn-about{color: #228ccb}
+/*Border Color*/
+#section-mservice .unit:hover,.navbar .navbar-nav > .menu-item.current-menu-item > a,.navbar .navbar-nav > .menu-item.current_page_item > a{border-color: #228ccb}
+/*Shadow Color*/
